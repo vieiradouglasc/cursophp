@@ -10,5 +10,5 @@
     $pratodia[5] = "Bacalhau";
     $pratoDia[6] = "Feijão";
 
-    $valorPrato[1]
+    $valorPrato[1] = "12,60";
 ?>
