@@ -9,4 +9,6 @@
     $pratoDia[4] = "Nhoque";
     $pratodia[5] = "Bacalhau";
     $pratoDia[6] = "Feijão";
+
+    $valorPrato[1]
 ?>
