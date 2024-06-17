@@ -20,5 +20,4 @@
 
     echo "Hoje é " . $diaSemanaExtenso . "<br>";
     echo "O prato é " . $pratoDia[$diaSemanaExtenso] . " no valor de R$ " . $valorPrato[$diaSemanaExtenso];
-
 ?>
