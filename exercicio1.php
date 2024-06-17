@@ -10,5 +10,12 @@
     $pratodia[5] = "Bacalhau";
     $pratoDia[6] = "Feijão";
 
-    $valorPrato[1] = "12,60";
+    $valorPrato[0] = "12,60";
+    $valorPrato[1] = "10,00";
+    $valorPrato[2] = "09,40";
+    $valorPrato[3] = "11,20";
+    $valorPrato[4] = "08,50";
+    $valorPrato[5] = "15,20";
+    $valorPrato[6] = "10,00";
+
 ?>
