@@ -17,4 +17,7 @@
     $cardapioDia[4][2] = "08,50";
     $cardapioDia[5][2] = "15,20";
     $cardapioDia[6][2] = "10,00";
+
+    echo "Hoje é " . $diaSemanaExtenso . "<br>";
+    echo "O prato é " . $cardapioDia[$diaSemanaNumero][1] . " no valor de R$ " . $cardapioDia[$diaSemanaNumero][2];
 ?>
