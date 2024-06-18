@@ -27,6 +27,6 @@
     ];
     // Mensagem
     echo "Hoje é " . $diaSemanaExtenso . "<br>";
-    echo "O prato do dia é " . $cardapioDia[0][$diaSemanaNumero] . " no valor de R$ " . $cardapioDia[1][$diaSemanaNumero] . "\n";
+    echo "O prato do dia é " . $cardapioDia[0][$diaSemanaNumero] . " no valor de R$ " . $cardapioDia[1][$diaSemanaNumero];
 
 ?>

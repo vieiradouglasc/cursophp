@@ -20,7 +20,7 @@
     // $valorPrato[6] = "10,00";
 
     $pratoDia = ["Lasanha", "Frango", "Arroz", "Feijoada", "Nhoque", "Bacalhau", "Feijão"];
-    $valorPrato = [12.60, 10.00, 09.40, 11.20, 08.50, 15.20, 10,00];
+    $valorPrato = [12.60, 10.00, 09.40, 11.20, 08.50, 15.20, 10.00];
 
     echo "Hoje é " . $diaSemanaExtenso . "<br>";
     echo "O prato é " . $pratoDia[$diaSemanaNumero] . " no valor de R$ " . $valorPrato[$diaSemanaNumero]; 
