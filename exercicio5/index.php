@@ -1,7 +1,5 @@
 <?php
 
-use function PHPSTORM_META\map;
-
     $temperatura[0] = rand(-20, 40);
     $temperatura[1] = rand(-20, 40);
     $temperatura[2] = rand(-20, 40);
