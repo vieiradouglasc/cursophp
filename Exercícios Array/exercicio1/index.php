@@ -27,7 +27,7 @@
 
 <html>
     <head>
-        <title>Exercício 5 - Temperaturas (Arra)</title>
+        <title>Exercício 1 - Array</title>
     </head>
     <body>
         <table border="1">

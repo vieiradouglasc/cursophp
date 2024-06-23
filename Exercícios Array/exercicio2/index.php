@@ -14,7 +14,7 @@
 
 <html>
     <head>
-        <title></title>
+        <title>Exercício 2 - Array</title>
     </head>
     <body>
         <table border=1>
