@@ -8,8 +8,7 @@
     $disciplinas = ["Português", "Matemática", "Geografia", "Ciências", "História"];
 
     $mediaNotas = array_sum($notas) / count($disciplinas);
-    
-    
+        
     $maiorNota = max($notas);
     $maiorNotaDisciplina = array_search($maiorNota, $notas);
 
