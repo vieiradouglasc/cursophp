@@ -1,9 +1,9 @@
 <?php
     $agenda = [
         '2024-06-24' => ["hora" => "10:30", "titulo" => "Daily", "local" => "Microsoft Teams", "obs" => "Atualizar Lista de Tarefas"],
-        '2024-06-25' => ["hora" => "11:45", "titulo" => "Levanamento de Requisitos", "local" => "Microsoft Teams", "obs" => "Gravar Reunião"],
+        '2024-06-25' => ["hora" => "11:45", "titulo" => "Levanamento de Requisitos", "local" => "Sala de Reunião", "obs" => "Gravar Reunião"],
         '2024-06-26' => ["hora" => "14:30", "titulo" => "Status Report", "local" => "Microsoft Teams", "obs" => "Apresentar PPT de evolução do Projeto"],
-        '2024-06-27' => ["hora" => "16:00", "titulo" => "Levantamento de Horas", "local" => "Microsoft Teams", "obs" => "Apresentar Levantamento de Requisitos"],
+        '2024-06-27' => ["hora" => "16:00", "titulo" => "Levantamento de Horas", "local" => "Sala de Reunião", "obs" => "Apresentar Levantamento de Requisitos"],
     ];    
 ?>
 
