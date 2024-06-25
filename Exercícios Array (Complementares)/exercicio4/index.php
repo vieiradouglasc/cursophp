@@ -16,7 +16,7 @@
         <table border="1">
             <tr>
                 <td>Data do Compromisso:</td>
-                <td><?php echo date('j F, Y', strtotime(array_keys($agenda)[0]));?></td>
+                <td><?php echo date("d/F/Y", strtotime(array_keys($agenda)[0]));?></td>
             </tr>
             <tr>
                 <td>Hora do Compromisso:</td>
@@ -39,7 +39,7 @@
         <table border="1">
             <tr>
                 <td>Data do Compromisso:</td>
-                <td><?php echo date('j F, Y', strtotime(array_keys($agenda)[1]));?></td>
+                <td><?php echo date("d/F/Y", strtotime(array_keys($agenda)[1]));?></td>
             </tr>
             <tr>
                 <td>Hora do Compromisso:</td>
@@ -62,7 +62,7 @@
         <table border="1">
             <tr>
                 <td>Data do Compromisso:</td>
-                <td><?php echo date('j F, Y', strtotime(array_keys($agenda)[2]));?></td>
+                <td><?php echo date("d/F/Y", strtotime(array_keys($agenda)[2]));?></td>
             </tr>
             <tr>
                 <td>Hora do Compromisso:</td>
@@ -85,7 +85,7 @@
         <table border="1">
             <tr>
                 <td>Data do Compromisso:</td>
-                <td><?php echo date('j F, Y', strtotime(array_keys($agenda)[3]));?></td>
+                <td><?php echo date("d/F/Y", strtotime(array_keys($agenda)[3]));?></td>
             </tr>
             <tr>
                 <td>Hora do Compromisso:</td>
